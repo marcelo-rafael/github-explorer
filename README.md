@@ -2,10 +2,9 @@
 Primeiro projeto com React
 </h1>
 <p align="center">Nessa etapa daremos inicio ao aprendizado do ReactJS, criando o primeiro projeto já utilizando TypeScript.</p>
-<p align="center">Deployed <a href="/">here</a>.</p>
+<p align="center">Deployed <a href="https://primeiro-projeto-com-react.netlify.app/">here</a>.</p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/dff7a297-77f9-48b0-914a-f88501353aa1/deploy-status)](https://app.netlify.com/sites/youtube-clone-github/deploys)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9f66e2b9-72c4-43d8-9c51-ef708394fa20/deploy-status)](https://app.netlify.com/sites/primeiro-projeto-com-react/deploys)
 <hr>
 
 
