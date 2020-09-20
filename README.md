@@ -27,31 +27,26 @@ $ git clone https://github.com/marcelo-rafael/primeiro-projeto-com-react/
 
 ## Author
 
-<img  border-radius="50px" src="https://avatars0.githubusercontent.com/u/29902777?s=460&u=61d43667f33a45eb000a2af216e4abeb2d4a6717&v=4" width="100px" alt="Author"/>
+<img  border-radius="50px" src="https://avatars0.githubusercontent.com/u/29902777?s=460&u=61d43667f33a45eb000a2af216e4abeb2d4a6717&v=4" width="100px" alt="Marcelo Rafael Gonçalves"/>
 
 Made with: by Marcelo Rafael Gonçalves
 
-<p>
-  <a
-    href="https://web.whatsapp.com/send?phone=+5511950330322" 
-    alt="WhatsApp"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-WhatsApp-4CA143?style=flat&logo=WhatsApp&logoColor=white" />
-  </a>
-  <a
-    href="mailto:marcelo.rafael.goncalves@gmail.com" 
-    alt="Gmail"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmaill&logoColor=white" />
-    
-  </a>
-  <a
-    href="https://www.linkedin.com/in/marcelo-rafael-gonçalves/" 
-    alt="LinkedIn"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
-  </a>
-</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Marcelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-rafael-gonçalves/)](https://www.linkedin.com/in/marcelo-rafael-gonçalves/) 
+[![Gmail Badge](https://img.shields.io/badge/-marcelo.rafael.goncalves@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelo.rafael.goncalves@gmail.com)](mailto:marcelo.rafael.goncalves@gmail.com)
+
+
+---
+
+
+## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
+
+Feito com ❤️ por Marcelo Rafael Gonçalves 👋🏽 [Entre em contato!](https://www.linkedin.com/in/marcelo-rafael-gonçalves/)
+
+---
+
+##  Versões do README
+
+[Português 🇧🇷](./README.md)  |  [Inglês sem emojis 🇺🇸](./README-en.md)
