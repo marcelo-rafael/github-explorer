@@ -36,7 +36,7 @@ Primeiro projeto com React
  
 </p>
 <h1 align="center">
-    <img alt="Github Explorer" title="#Github_Explorer" src="./assets/Home.svg" />
+    <img alt="Github Explorer" title="#Github_Explorer" src="./src/assets/banner.svg" />
 </h1>
 
 <h4 align="center"> 
