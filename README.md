@@ -29,15 +29,10 @@ $ git clone https://github.com/marcelo-rafael/primeiro-projeto-com-react/
 
 <img  border-radius="50px" src="https://avatars0.githubusercontent.com/u/29902777?s=460&u=61d43667f33a45eb000a2af216e4abeb2d4a6717&v=4" width="100px" alt="Marcelo Rafael Gonçalves"/>
 
-Made with: by Marcelo Rafael Gonçalves
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-Marcelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-rafael-gonçalves/)](https://www.linkedin.com/in/marcelo-rafael-gonçalves/) 
 [![Gmail Badge](https://img.shields.io/badge/-marcelo.rafael.goncalves@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelo.rafael.goncalves@gmail.com)](mailto:marcelo.rafael.goncalves@gmail.com)
 
-
 ---
-
 
 ## 📝 Licença
 
