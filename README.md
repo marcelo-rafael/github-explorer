@@ -16,8 +16,23 @@ Primeiro projeto com React
 - [x] TypeScript
 
 
-1. Run `npm install` or `yarn install`.<br />
-2. Run `yarn start` and access `http://localhost:3000`.<br />
+---
+
+## 🎨 Layout
+
+O layout da aplicação está disponível no Figma:
+
+<a href="https://www.figma.com/file/HOCmxfrElzLpI75LdzFLia/Github-Explorer?node-id=0%3A1">
+  <img alt="Made by Marcelo Rafael Gonçalves" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+</a>
+
+### Web
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Github Explorer" title="#Github_Explorer" src="./src/assets/Home.svg" width="400px">
+
+  <img alt="Github Explorer" title="#Github_Explorer" src="./src/assets/User.svg" width="400px">
+</p>
 
 ---
 
