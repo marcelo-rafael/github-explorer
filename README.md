@@ -15,15 +15,45 @@ Primeiro projeto com React
 - [x] Styled Components
 - [x] TypeScript
 
-## Starting Dev Environment
-
-```bash
-# Clone this repository
-$ git clone https://github.com/marcelo-rafael/primeiro-projeto-com-react/
-```
 
 1. Run `npm install` or `yarn install`.<br />
 2. Run `yarn start` and access `http://localhost:3000`.<br />
+
+---
+
+## 🚀 Como executar o projeto
+
+Este projeto é feito em uma parte:
+
+1. Frontend (pasta primeiro-projeto-com-react)
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+#### 🧭 Rodando a aplicação web
+
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/marcelo-rafael/primeiro-projeto-com-react/
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd primeiro-projeto-com-react
+
+# Instale as dependências
+$ yarn install or npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn start or npm run start
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+
+```
+
+---
 
 ## 🛠 Tecnologias
 
