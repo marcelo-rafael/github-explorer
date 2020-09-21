@@ -11,21 +11,21 @@
 </h1>
 
 <h4 align="center"> 
-	🚧  Github Explorer 🚀 Concluído 🚀 🚧
+	🚧  Github Explorer 🚀 Finished 🚀 🚧
 </h4>
 <p align="center">Deployed <a href="https://primeiro-projeto-com-react.netlify.app/">here</a>.</p>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-layout">Layout</a> • 
- <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
+ <a href="#about">About</a> •
+ <a href="#layout">Layout</a> • 
+ <a href="#how-it-works">How it works</a> • 
+ <a href="#tech-stack">Tech Stack</a> • 
+ <a href="#author">Author</a> • 
+ <a href="#user-content-license">License</a>
 </p>
 
 
-## 💻 Sobre o projeto
+## 💻 About
 
 ♻️ Github Explorer - é uma aplicação para explorar repositórios no Github. Com o repositorio escolhido você consegue ver as Stars, Forks e Issues abertas.
 
@@ -38,7 +38,7 @@ O GoStack é um treinamento imersivo nas tecnologias mais modernas de desenvolvi
 
 ## 🎨 Layout
 
-O layout da aplicação está disponível no Figma:
+The application layout is available on Figma:
 
 <a href="https://www.figma.com/file/HOCmxfrElzLpI75LdzFLia/Github-Explorer?node-id=0%3A1">
   <img alt="Made by Marcelo Rafael Gonçalves" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
@@ -54,43 +54,43 @@ O layout da aplicação está disponível no Figma:
 
 ---
 
-## 🚀 Como executar o projeto
+## 🚀 How it works
 
-Este projeto é feito em uma parte:
+This project is done in one part:
 
-1. Frontend (pasta primeiro-projeto-com-react)
+1. Frontend (primeiro-projeto-com-react folder)
 
-### Pré-requisitos
+### Pré-requisites
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Before you begin, you will need to have the following tools installed on your machine:
+[Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/).
+In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/)
 
-#### 🧭 Rodando a aplicação web
+#### 🧭 Running the web application
 
 ```bash
 
-# Clone este repositório
+# Clone this repository
 $ git clone https://github.com/marcelo-rafael/primeiro-projeto-com-react/
 
-# Acesse a pasta do projeto no seu terminal/cmd
+# Access the project folder in your terminal
 $ cd primeiro-projeto-com-react
 
-# Instale as dependências
+# Install the dependencies
 $ yarn install or npm install
 
-# Execute a aplicação em modo de desenvolvimento
+# Run the application in development mode
 $ yarn start or npm run start
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+# The application will open on the port:3000 - acesse http://localhost:3000
 
 ```
 
 ---
 
-## 🛠 Tecnologias
+## 🛠 Tech Stack
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in the construction of the project:
 
 #### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
 
@@ -100,31 +100,30 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[Polished](https://github.com/styled-components/polished)**
 -   **[Styled Components](https://github.com/styled-components/styled-components)**
 
-> Veja o arquivo  [package.json](https://github.com/marcelo-rafael/primeiro-projeto-com-react/blob/master/package.json)
+> See the file  [package.json](https://github.com/marcelo-rafael/primeiro-projeto-com-react/blob/master/package.json)
 
 ---
 
-## Utilitários
+## Utilities
 
--   Protótipo:  **[Figma](https://www.figma.com/)**  →  **[Protótipo (Github Explorer)](https://www.figma.com/file/HOCmxfrElzLpI75LdzFLia/Github-Explorer?node-id=0%3A1)**
+-   Prototype:  **[Figma](https://www.figma.com/)**  →  **[Protótipo (Github Explorer)](https://www.figma.com/file/HOCmxfrElzLpI75LdzFLia/Github-Explorer?node-id=0%3A1)**
 -   API:  **[Github API](https://developer.github.com/v3/users/)**
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
 -   Markdown:  **[StackEdit](https://stackedit.io/)**,  **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
--   Fontes: **[Roboto](https://fonts.google.com/specimen/Roboto)**
+-   Fonts: **[Roboto](https://fonts.google.com/specimen/Roboto)**
 
 ---
 
-## 💪 Como contribuir para o projeto
+## 💪 How to contribute
 
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-4. Envie as suas alterações: `git push origin my-feature`
-
+1. Fork the project.
+2. Create a new branch with your changes: `git checkout -b my-feature`
+3. Save your changes and create a commit message telling you what you did: `git commit -m" feature: My new feature "`
+4. Submit your changes: `git push origin my-feature`
 
 ---
 
-## Autor
+## Author
 
 <img  border-radius="50px" src="https://avatars0.githubusercontent.com/u/29902777?s=460&u=61d43667f33a45eb000a2af216e4abeb2d4a6717&v=4" width="100px" alt="Marcelo Rafael Gonçalves"/>
 
@@ -135,13 +134,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+This project is under the license [MIT](./LICENSE).
 
 
-Feito com ❤️ por Marcelo Rafael Gonçalves 👋🏽 [Entre em contato!](https://www.linkedin.com/in/marcelo-rafael-gonçalves/)
+Made with ❤️ by Marcelo Rafael Gonçalves 👋🏽 [Get in Touch!](https://www.linkedin.com/in/marcelo-rafael-gonçalves/)
 
 ---
 
-##  Versões do README
+##  Versions of README
 
 [Português 🇧🇷](./README.md)  |  [Inglês 🇺🇸](./README-en.md)
