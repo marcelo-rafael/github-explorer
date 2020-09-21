@@ -27,7 +27,7 @@
 
 ## About
 
-♻️ Github Explorer - is an application for exploring repositories on Github. With the chosen repository you can see the Stars, Forks and Issues open.
+Github Explorer - is an application for exploring repositories on Github. With the chosen repository you can see the Stars, Forks and Issues open.
 
 
 In this step we will start learning ReactJS, creating the first project already using TypeScript.
