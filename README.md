@@ -1,9 +1,4 @@
-<h1 align="center">
-Primeiro projeto com React
-</h1>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9f66e2b9-72c4-43d8-9c51-ef708394fa20/deploy-status)](https://app.netlify.com/sites/primeiro-projeto-com-react/deploys)
-<hr>
 
 <p align="center">
     
@@ -141,6 +136,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 📝 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
+
 
 Feito com ❤️ por Marcelo Rafael Gonçalves 👋🏽 [Entre em contato!](https://www.linkedin.com/in/marcelo-rafael-gonçalves/)
 
