@@ -25,7 +25,7 @@
 </p>
 
 
-## 💻 About
+## About
 
 ♻️ Github Explorer - é uma aplicação para explorar repositórios no Github. Com o repositorio escolhido você consegue ver as Stars, Forks e Issues abertas.
 
@@ -36,7 +36,7 @@ O GoStack é um treinamento imersivo nas tecnologias mais modernas de desenvolvi
 
 ---
 
-## 🎨 Layout
+## Layout
 
 The application layout is available on Figma:
 
@@ -54,7 +54,7 @@ The application layout is available on Figma:
 
 ---
 
-## 🚀 How it works
+## How it works
 
 This project is done in one part:
 
@@ -88,7 +88,7 @@ $ yarn start or npm run start
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 The following tools were used in the construction of the project:
 
@@ -132,7 +132,7 @@ The following tools were used in the construction of the project:
 
 ---
 
-## 📝 License
+## License
 
 This project is under the license [MIT](./LICENSE).
 
