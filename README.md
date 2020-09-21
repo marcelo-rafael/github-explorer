@@ -144,4 +144,4 @@ Feito com ❤️ por Marcelo Rafael Gonçalves 👋🏽 [Entre em contato!](http
 
 ##  Versões do README
 
-[Português 🇧🇷](./README.md)  |  [Inglês 🇺🇸](./README-en.md)
+[Português 🇧🇷](./README.md)  |  [English 🇺🇸](./README-en.md)
