@@ -27,12 +27,13 @@
 
 ## About
 
-♻️ Github Explorer - é uma aplicação para explorar repositórios no Github. Com o repositorio escolhido você consegue ver as Stars, Forks e Issues abertas.
+♻️ Github Explorer - is an application for exploring repositories on Github. With the chosen repository you can see the Stars, Forks and Issues open.
 
-Nessa etapa daremos inicio ao aprendizado do ReactJS, criando o primeiro projeto já utilizando TypeScript.
 
-Projeto desenvolvido durante o **Bootcamp GoStack** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/).
-O GoStack é um treinamento imersivo nas tecnologias mais modernas de desenvolvimento web e mobile.
+In this step we will start learning ReactJS, creating the first project already using TypeScript.
+
+Project developed during the **Bootcamp GoStack** offered by [Rocketseat](https://blog.rocketseat.com.br/).
+GoStack is immersive training in the most modern technologies of web and mobile development.
 
 ---
 
