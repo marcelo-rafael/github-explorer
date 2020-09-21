@@ -132,7 +132,7 @@ The following tools were used in the construction of the project:
 
 ---
 
-## 📝 Licença
+## 📝 License
 
 This project is under the license [MIT](./LICENSE).
 
