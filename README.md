@@ -1,40 +1,16 @@
 <h1 align="center">
 Primeiro projeto com React
 </h1>
-<p align="center">Nessa etapa daremos inicio ao aprendizado do ReactJS, criando o primeiro projeto já utilizando TypeScript.</p>
-<p align="center">Deployed <a href="https://primeiro-projeto-com-react.netlify.app/">here</a>.</p>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9f66e2b9-72c4-43d8-9c51-ef708394fa20/deploy-status)](https://app.netlify.com/sites/primeiro-projeto-com-react/deploys)
 <hr>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/README-ecoleta?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/README-ecoleta">
-
-  <a href="https://www.twitter.com/tgmarinho/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Ftgmarinho%2FREADME-ecoleta">
-  </a>
-  
-  <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tgmarinho/README-ecoleta">
-  </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/tgmarinho/README-ecoleta/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/tgmarinho/README-ecoleta?style=social">
-  </a>
-
-  <a href="https://rocketseat.com.br">
-    <img alt="Feito pela Rocketseat" src="https://img.shields.io/badge/feito%20por-Rocketseat-%237519C1">
-  </a>
-  
-  <a href="https://blog.rocketseat.com.br/">
-    <img alt="Stargazers" src="https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=flat&logo=ghost">
-    </a>
-  
- 
+   
 </p>
+
 <h1 align="center">
     <img alt="Github Explorer" title="#Github_Explorer" src="./src/assets/banner.png" />
 </h1>
@@ -42,6 +18,7 @@ Primeiro projeto com React
 <h4 align="center"> 
 	🚧  Github Explorer 🚀 Concluído 🚀 🚧
 </h4>
+<p align="center">Deployed <a href="https://primeiro-projeto-com-react.netlify.app/">here</a>.</p>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
@@ -57,6 +34,7 @@ Primeiro projeto com React
 
 ♻️ Github Explorer - é uma aplicação para explorar repositórios no Github. Com o repositorio escolhido você consegue ver as Stars, Forks e Issues abertas.
 
+Nessa etapa daremos inicio ao aprendizado do ReactJS, criando o primeiro projeto já utilizando TypeScript.
 
 Projeto desenvolvido durante o **Bootcamp GoStack** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/).
 O GoStack é um treinamento imersivo nas tecnologias mais modernas de desenvolvimento web e mobile.
